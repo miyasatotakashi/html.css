@@ -1,0 +1,25 @@
+table{
+  border-collapse: separate;
+  border-spacing: 10px;
+}
+.contact tr{
+  height: 7rem;
+}
+.contact th{
+  width: 150px;
+}
+.word{
+  width: 480px;
+}
+.button{
+  font-size:  3rem;
+  color: #fff;
+  background-color: #008b8b;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  display: block;
+}
+.button:hover{
+  opacity: 0.5;
+}
